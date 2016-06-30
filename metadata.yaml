@@ -1,0 +1,11 @@
+name: iperf-server
+summary: iperf-server
+maintainer: Tim Van Steenburgh <Tim.Van.Steenburgh@xenial-vm>
+description: |
+  iperf-server
+tags:
+  - misc
+subordinate: false
+provides:
+  iperf:
+    interface: iperf

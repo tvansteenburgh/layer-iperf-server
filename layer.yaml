@@ -1,0 +1,7 @@
+includes:
+  - 'layer:basic'
+  - 'interface:iperf'
+options:
+  basic:
+    packages:
+      - iperf
